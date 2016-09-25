@@ -1,5 +1,5 @@
 == Website is : esthetiquemayria.herokuapp.com/
 
-Copryright 2016, Vincent Gosselin
+Copyright 2016, Vincent Gosselin
 
 Under development.
